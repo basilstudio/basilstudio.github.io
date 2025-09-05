@@ -819,7 +819,7 @@ strong {
   }
 }
 
-/* Footer alignment for small devices */
+/* Footer alignment for small devices 
 @media screen and (max-width: 767px) {
   .site-footer .col-6,
   .site-footer .col-lg-3 {
@@ -830,7 +830,7 @@ strong {
   .site-footer ul.social-icon {
     margin-top: 1rem;
   }
-}
+}*/
 
 /* Fix team carousel images on mobile */
 @media screen and (max-width: 767px) {
